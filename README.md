@@ -1,5 +1,5 @@
 # What is it
-`TikoLab Handbook` is an open book for remote collaboration training, good for non-technical audience to learn on the tooling and skills in order to become a functioning member in a #ALLRemote team.
+`TikoLab Handbook` is an open book for remote collaboration training, good for non-technical audience to learn on the tooling and skills in order to become a functioning member in an #ALLRemote team.
 
 # Work in Progress 
 
