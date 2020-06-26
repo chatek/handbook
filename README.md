@@ -3,7 +3,7 @@
 
 # Work in Progress 
 
-TikoLab is in private beta mode. You can [open an Issue](https://github.com/chatek/handbook/issues/new/choose) to request invite to join.
+TikoLab is in private beta mode. You can [open an Issue](https://github.com/tikolab/handbook/issues/new/choose) to request invite to join.
 
 # Who's building it
 
